@@ -1,7 +1,5 @@
 # assign1git
 Shynal Prasad
 "First comment"
-<<<<<<< HEAD
-=======
 "testbranch change"
->>>>>>> main
+"This is a change on newbranch"
